@@ -12,4 +12,6 @@ Every page talks about a language, framework or technology that we use or that i
 
 Here is an index of our current pages to get started:
 
+* [Ruby on Rails](RAILS.md)
+
 ![dontpanic](/dont-panic.jpg "dont-panic")
